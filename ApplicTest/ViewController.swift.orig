@@ -13,9 +13,22 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+<<<<<<< HEAD
+    
+    
+    
+    
+    
+    
+    
+    
+//main without anything
 
-//твою мать
+=======
+
+//hope it's it
     
     
+>>>>>>> another
 }
 

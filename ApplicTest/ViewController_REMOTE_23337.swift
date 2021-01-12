@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-//твою мать
+//hope it's it
     
     
 }
